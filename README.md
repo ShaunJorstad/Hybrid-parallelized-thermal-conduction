@@ -8,4 +8,4 @@ The beowulf cluster connects 4 laptops running a slim linux kernel are connected
 
 ### Converged plate heatmap
 
-![Image of Converged Thermal Plate](./ConvergedThermalPlate.jpg)
+![Image of Converged Thermal Plate](./ConvergedThermalPlate.png)
